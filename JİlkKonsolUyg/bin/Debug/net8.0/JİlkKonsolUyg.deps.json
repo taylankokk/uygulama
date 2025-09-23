@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "JİlkKonsolUyg/1.0.0": {
+        "runtime": {
+          "JİlkKonsolUyg.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JİlkKonsolUyg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

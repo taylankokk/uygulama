@@ -1,0 +1,14 @@
+C:\Users\Taylan\source\repos\JİlkKonsolUyg\JİlkKonsolUyg\bin\Debug\net8.0\JİlkKonsolUyg.exe
+C:\Users\Taylan\source\repos\JİlkKonsolUyg\JİlkKonsolUyg\bin\Debug\net8.0\JİlkKonsolUyg.deps.json
+C:\Users\Taylan\source\repos\JİlkKonsolUyg\JİlkKonsolUyg\bin\Debug\net8.0\JİlkKonsolUyg.runtimeconfig.json
+C:\Users\Taylan\source\repos\JİlkKonsolUyg\JİlkKonsolUyg\bin\Debug\net8.0\JİlkKonsolUyg.dll
+C:\Users\Taylan\source\repos\JİlkKonsolUyg\JİlkKonsolUyg\bin\Debug\net8.0\JİlkKonsolUyg.pdb
+C:\Users\Taylan\source\repos\JİlkKonsolUyg\JİlkKonsolUyg\obj\Debug\net8.0\JİlkKonsolUyg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taylan\source\repos\JİlkKonsolUyg\JİlkKonsolUyg\obj\Debug\net8.0\JİlkKonsolUyg.AssemblyInfoInputs.cache
+C:\Users\Taylan\source\repos\JİlkKonsolUyg\JİlkKonsolUyg\obj\Debug\net8.0\JİlkKonsolUyg.AssemblyInfo.cs
+C:\Users\Taylan\source\repos\JİlkKonsolUyg\JİlkKonsolUyg\obj\Debug\net8.0\JİlkKonsolUyg.csproj.CoreCompileInputs.cache
+C:\Users\Taylan\source\repos\JİlkKonsolUyg\JİlkKonsolUyg\obj\Debug\net8.0\JİlkKonsolUyg.dll
+C:\Users\Taylan\source\repos\JİlkKonsolUyg\JİlkKonsolUyg\obj\Debug\net8.0\refint\JİlkKonsolUyg.dll
+C:\Users\Taylan\source\repos\JİlkKonsolUyg\JİlkKonsolUyg\obj\Debug\net8.0\JİlkKonsolUyg.pdb
+C:\Users\Taylan\source\repos\JİlkKonsolUyg\JİlkKonsolUyg\obj\Debug\net8.0\JİlkKonsolUyg.genruntimeconfig.cache
+C:\Users\Taylan\source\repos\JİlkKonsolUyg\JİlkKonsolUyg\obj\Debug\net8.0\ref\JİlkKonsolUyg.dll
